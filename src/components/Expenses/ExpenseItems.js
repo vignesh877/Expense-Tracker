@@ -5,7 +5,6 @@ import Card from '../UI/Card'
 
 const ExpenseItems = (props) => {
    
-  // console.log('exp item',props);
   return (
     <li>
       <Card className='expense-item' >
